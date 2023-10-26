@@ -1,6 +1,6 @@
 # connect_wifi
 
-Script to connect Linux to a WiFi network through console.
+Bash script to connect Linux to a WiFi network through console.
 
 Usage is specified in the console
 
